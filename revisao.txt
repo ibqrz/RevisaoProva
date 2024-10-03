@@ -1,0 +1,11 @@
+Revisao para a prova de Typescript
+
+Comandos:
+git init
+git clone url do repositorio 
+git status 
+git add .
+git commit -m
+git checkout -b nome da nova branch
+git branch
+git push origin nome 

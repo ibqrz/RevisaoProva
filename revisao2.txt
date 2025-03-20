@@ -5,7 +5,7 @@ Situacoes que podem ocorrer:
 -a main vem com o nome master:
 comando para alterar: 
 
-git barnch -m master main
+git branch -m master main
 
 -criar o repositorio somente depois:
 comando a ser usado para atualizar o repositorio:

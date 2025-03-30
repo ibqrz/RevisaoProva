@@ -11,3 +11,6 @@ git branch -m master main
 comando a ser usado para atualizar o repositorio:
 
 git remote origin link do repositorio
+
+-comando caso a tela mude:
+:qa!
